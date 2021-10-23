@@ -1,0 +1,81 @@
+body {
+  background color:#f6d6c2;
+}
+
+h1{
+  font-style:TimesNewRoman;
+  font-size: 50px;
+  color:#f6d6c2;
+  text-align:center;
+  background-color:#e3a803;
+  }
+
+h3 {
+  color:#f6d6c2;
+  background-color:#e3a803;
+}
+a{
+   color:#e3a803;
+}
+.one {
+  color:#e3a803;
+  font-size: 20px;
+  text-align:center;
+}
+.two {
+  color: #e3a803;
+  }
+.three {
+  color:#e3a803;
+  }
+  .four{
+    color:#e3a803;
+  }
+  .five{
+    color:#e3a803;
+    font-size: 20px;
+  }
+  h2{
+    color:#e3a803;
+}
+.six{
+  color:#e3a803;
+  font-size: 20px;
+}
+
+ul {
+  color:#e3a803;
+  list-style-type: square;
+}
+img{
+  width: 35%;
+  height:35%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+img{
+  width: 40%;
+  height:40%;
+}
+#aboutMeBodyTag{
+  background-image:url("background image.jpg");
+}
+.eight{
+  color:#e3a803;
+  font-size: 20px;
+}
+.nine{
+  color:#e3a803;
+  font-size:20px;
+}
+themissionPNG {
+  width:20%;
+  height:20%;
+}
+Global Warming.html body{
+  background color:#f6d6c2;
+}
